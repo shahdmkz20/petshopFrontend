@@ -57,14 +57,14 @@ We welcome contributions to improve our app! Please follow these steps:
 2. **Create a Branch**: Develop your feature or fix on a new branch.
 3. **Submit a Pull Request**: Describe your changes and submit a pull request for review.
 
-##BackEnd REPO
+### BackEnd REPO
 https://github.com/shahdmkz20/petshopBackend
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-If you have any questions, issues, or feedback, please contact us at support@petshop.com.
+If you have any questions, issues, or feedback, please contact us at shahd.m.zaghnoun@gmail.com.
 
 Thank you for using the PetShop E-Commerce App!
 
